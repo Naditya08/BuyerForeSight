@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Naditya08/BuyerForeSight/static/css/main.93d9fa03.css",
+    "main.js": "/Naditya08/BuyerForeSight/static/js/main.9baa87f1.js",
+    "static/js/453.825386d9.chunk.js": "/Naditya08/BuyerForeSight/static/js/453.825386d9.chunk.js",
+    "index.html": "/Naditya08/BuyerForeSight/index.html",
+    "main.93d9fa03.css.map": "/Naditya08/BuyerForeSight/static/css/main.93d9fa03.css.map",
+    "main.9baa87f1.js.map": "/Naditya08/BuyerForeSight/static/js/main.9baa87f1.js.map",
+    "453.825386d9.chunk.js.map": "/Naditya08/BuyerForeSight/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d9fa03.css",
+    "static/js/main.9baa87f1.js"
+  ]
+}
